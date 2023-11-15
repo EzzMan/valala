@@ -103,7 +103,7 @@ systemctl restart x-ui
 
    ```sh
    git clone https://github.com/EzzMan/valala.git
-   cd 3x-ui
+   cd valala
    ```
 
 3. Start the Service
